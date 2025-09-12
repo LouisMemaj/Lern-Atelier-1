@@ -29,7 +29,7 @@ Reflexion: Heute habe ich bei Modul 319 Mission 4, 5 und 6 nachgeholt, da ich kr
 
 
 ## Lernperiode Reflexion
-(In dieser Lernperiode habe ich... (50-100 Wörter))
+
 
 ## Planung 19.09.2025
 - [ ] Modull 319, mission 8 fertig haben 
