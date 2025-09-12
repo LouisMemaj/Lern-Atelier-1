@@ -1,7 +1,7 @@
 # Lern-Atelier-1
 ## Ziele
 1. Konzentriert meine Aufgaben lösen, von den Modulen, und Fragen stellen, wenn ich etwas nicht verstehe.
-2. Bei Modul 319 Mission 2 fertig schaffen.
+2. Bei Modul 319 bis Mission 8 gekommen sein.
 3. mit dem Mac besser vertraut machen, z. B. wie ich den Überblick über alle Apps bekomme.
 
 4. 12.08.2024 bis 19.09.2025
