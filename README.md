@@ -1,37 +1,39 @@
 # Lern-Atelier-1
-## Tag 1
-### Ziele
-1. Konzentriet meine aufgaben lösen, von den modulen und fragen wenn ich etwas nicht verstehe
-2. bei Modul 319, mission 2 fertig schaffen
-3. Mit Mac sich besser bekannt machen, wie ich den überblick von allen apps bekomme
-4. test
-   Name: Exemplibus Exemplio
+## Ziele
+1. Konzentriert meine Aufgaben lösen, von den Modulen, und Fragen stellen, wenn ich etwas nicht verstehe.
+2. Bei Modul 319 Mission 2 fertig schaffen.
+3. mit dem Mac besser vertraut machen, z. B. wie ich den Überblick über alle Apps bekomme.
 
-12.08.2024 bis 29.09.2024
+4. 12.08.2024 bis 19.09.2025
 
 ## Grob-Planung
 ### Noten
- Ich bin im modul 319 am besten. Ich hatte noch keine test gehabt.
+Ich bin im Modul 319 am besten. Ich hatte noch keinen Test.
 ### Veränderungen
-Was möchten Sie generell im Vergleich zur letzten Lernperiode anpassen?
-ich sollte mehr die powerpoints durchlesen
+was möchte ich generell im Vergleich zur letzten Lernperiode anpassen?
+Ich sollte mehr die PowerPoints durchlesen.
 ### Projekte / neue Technologien
-Was für Projekte/neue Technologien möchten Sie gerne in dieser Lernperiode lernen?
-ein einfaches game zu programmieren, ich und johannes machen vllt ein 2D game
+Was für Projekte/neue Technologien möchte ich gerne in dieser Lernperiode lernen?
+Ein einfaches Game programmieren. Johannes und ich machen vielleicht ein 2D-Game.
 ### Generelle Ziele
-Was haben Sie für klare und messbare Ziele in dieser Lernperiode?
-mind. 1 1/2 produktiv arbeiten
+Was habe ich für klare und messbare Ziele in dieser Lernperiode?
+Mindestens 1,5 Stunden produktiv arbeiten.
 ## 05.09.2025
-Reflexion: Heute habe ich bei modull 319 mission 4, 5 und 6 nachgeholt, da ich krank war. ich habe die Zeit gut genutz und Johannes hat mir sehr geholfen. die missionen habe ich auch recht gut verstanden. Kopf und fusszeile waren sehr einfach zum verstehen. ... (50-100 Wörter)
+Reflexion: Heute habe ich bei Modul 319 Mission 4, 5 und 6 nachgeholt, da ich krank war. Ich habe die Zeit gut genutzt, und Johannes hat mir sehr geholfen. Die Missionen habe ich auch recht gut verstanden. Kopf- und Fußzeile waren sehr einfach zu verstehen.
 
 ## Planung 12.09.2025
-3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
+- [ ] Modull 319, Mission 7, LA_319_0703_ArrayManipulation fertig machen
+- [ ] Modull 431, 1713 versuche fertig zu machen
+- [ ] Modull 319, mission 8 anfangen mit LA_319_0801_Kontrollstrukturen
 
-(Heute habe ich... (50-100 Wörter))
 
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (50-100 Wörter))
+
+## Planung 19.09.2025
+- [ ] Modull 319, mission 8 fertig haben 
+- [ ] Modull 319, mission 9 anfangen, mit dem ersten word dokument
+- [ ] Modull 431, Hnadlungziel 3 fertig haben und alle word abgeben 
+
+
