@@ -29,7 +29,7 @@ Ok, gearbeitet
 
 ## Fein-Planung 31.10.2025
 
-- [ ] Ein kleiner Spiel programmieren, mit hilfe von ChatGPT, da es mein erstes mal ist.
+- [ ] Ein kleines Spiel programmieren, mit hilfe von ChatGPT, da es mein erstes mal ist.
 - [ ] An den neuen Modulen weiter Arbeiten. Genauer kann ich nichts sagen, da wir noch nichts spezifisches bekommen haben.
 
 ## Lernperiode Reflexion
