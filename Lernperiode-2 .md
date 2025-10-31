@@ -36,7 +36,7 @@ Ok, gearbeitet
 Die Fein-Planung die für heute geplant ist, habe ich schon am Dienstag gemacht. Ich habe zu den Aufgaben von dem Test 319 gedanken gemacht und mit chat gpt verglichen,
 was ich besser hätte machen können. Sonst war ich noch ein bisschen abgelenkt von  meinen Freunden.
 
-## Fein-Planung 31.10.2025
+## Fein-Planung 07.11.2025
 
 - [ ] Am Gruppen Projekt mit meiner Gruppe weiter arbeiten, das Programm am besten schon haben
 - [ ] Am Modul 162 weiter arbeiten und aktuell sein mit der voraussetzung, was man etwa haben sollte
