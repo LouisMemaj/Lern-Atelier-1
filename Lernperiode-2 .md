@@ -44,4 +44,4 @@ was ich besser hätte machen können. Sonst war ich noch ein bisschen abgelenkt 
 ## Lernperiode Reflexion
 Ich habe versucht mit hilfe von Chatgpt ein WASD Game zu erstellen, es wurde ähnlich wie pac man aber mein Charakter hatte keinen Design, das Programm nahm als Charakter
 "@" benutzt. Mann konnte Gold farmen und Items kriegen für mehr Damage, damit man dann die Gegner begegnen kann und sie besiegt. Ich, melvin und len haben noch an unser Projekt weiter
-gearbeitet
+gearbeitet. Abgelenkt habe ich mich immer noch ei bisschen.
