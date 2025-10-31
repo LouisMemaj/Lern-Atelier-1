@@ -29,10 +29,19 @@ Ok, gearbeitet
 
 ## Fein-Planung 31.10.2025
 
-- [ ] Ein kleines Spiel programmieren, mit hilfe von ChatGPT, da es mein erstes mal ist.
-- [ ] An den neuen Modulen weiter Arbeiten. Genauer kann ich nichts sagen, da wir noch nichts spezifisches bekommen haben.
+- [x] Ein kleines Spiel programmieren, mit hilfe von ChatGPT, da es mein erstes mal ist.
+- [x] An den neuen Modulen weiter Arbeiten. Genauer kann ich nichts sagen, da wir noch nichts spezifisches bekommen haben.
 
 ## Lernperiode Reflexion
 Die Fein-Planung die für heute geplant ist, habe ich schon am Dienstag gemacht. Ich habe zu den Aufgaben von dem Test 319 gedanken gemacht und mit chat gpt verglichen,
 was ich besser hätte machen können. Sonst war ich noch ein bisschen abgelenkt von  meinen Freunden.
 
+## Fein-Planung 31.10.2025
+
+- [ ] Am Gruppen Projekt mit meiner Gruppe weiter arbeiten, das Programm am besten schon haben
+- [ ] Am Modul 162 weiter arbeiten und aktuell sein mit der voraussetzung, was man etwa haben sollte
+
+## Lernperiode Reflexion
+Ich habe versucht mit hilfe von Chatgpt ein WASD Game zu erstellen, es wurde ähnlich wie pac man aber mein Charakter hatte keinen Design, das Programm nahm als Charakter
+"@" benutzt. Mann konnte Gold farmen und Items kriegen für mehr Damage, damit man dann die Gegner begegnen kann und sie besiegt. Ich, melvin und len haben noch an unser Projekt weiter
+gearbeitet
