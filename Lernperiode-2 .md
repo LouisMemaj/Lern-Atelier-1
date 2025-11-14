@@ -45,3 +45,11 @@ was ich besser hätte machen können. Sonst war ich noch ein bisschen abgelenkt 
 Ich habe versucht mit hilfe von Chatgpt ein WASD Game zu erstellen, es wurde ähnlich wie pac man aber mein Charakter hatte keinen Design, das Programm nahm als Charakter
 "@" benutzt. Mann konnte Gold farmen und Items kriegen für mehr Damage, damit man dann die Gegner begegnen kann und sie besiegt. Ich, melvin und len haben noch an unser Projekt weiter
 gearbeitet. Abgelenkt habe ich mich immer noch ei bisschen.
+
+## Fein-Planung 21.11.2025
+
+- [x] LA_162_1741
+- [x] LA_162_1742
+
+## Lernperiode Reflexion
+Ich habe die Aufträge erfüllt. Auch mit hilfe vo ChatGPT, aber er hat mir die Aufträge auch erklärt und ich habe sie verstanden.
