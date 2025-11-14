@@ -46,10 +46,13 @@ Ich habe versucht mit hilfe von Chatgpt ein WASD Game zu erstellen, es wurde äh
 "@" benutzt. Mann konnte Gold farmen und Items kriegen für mehr Damage, damit man dann die Gegner begegnen kann und sie besiegt. Ich, melvin und len haben noch an unser Projekt weiter
 gearbeitet. Abgelenkt habe ich mich immer noch ei bisschen.
 
+## Lernperiode Reflexion 13.11.2025
+LA_162_1735 und LA_162_1732 habe ich heute gemacht.
+
 ## Fein-Planung 21.11.2025
 
-- [x] LA_162_1741
-- [x] LA_162_1742
+- [ ] LA_162_17
+- [ ] LA_162_17
 
 ## Lernperiode Reflexion
 Ich habe die Aufträge erfüllt. Auch mit hilfe vo ChatGPT, aber er hat mir die Aufträge auch erklärt und ich habe sie verstanden.
