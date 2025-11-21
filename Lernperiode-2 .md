@@ -56,3 +56,12 @@ LA_162_1735 und LA_162_1732 habe ich heute gemacht.
 
 ## Lernperiode Reflexion
 Ich habe die Aufträge erfüllt. Auch mit hilfe vo ChatGPT, aber er hat mir die Aufträge auch erklärt und ich habe sie verstanden.
+
+## Fein-Planung 28.11.2025
+
+- [ ] LA_162_6944
+- [ ] LA_162_6954
+
+## Lernperiode Reflexion
+Ich habe die Aufträge erfüllt.
+
