@@ -65,3 +65,10 @@ Ich habe die Aufträge erfüllt. Auch mit hilfe vo ChatGPT, aber er hat mir die 
 ## Lernperiode Reflexion
 Ich habe die Aufträge erfüllt.
 
+## Fein-Planung 05.12.2025
+
+- [ ] LA_162_6954
+- [ ] LA_162_6955
+
+## Lernperiode Reflexion
+Ich habe die Aufträge erfüllt. Es war ein bischen schwer, aber machbar. Ab und zu musste ich mir Hilfe von Chatgpt holen
