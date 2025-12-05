@@ -72,3 +72,11 @@ Ich habe die Aufträge erfüllt.
 
 ## Lernperiode Reflexion
 Ich habe die Aufträge erfüllt. Es war ein bischen schwer, aber machbar. Ab und zu musste ich mir Hilfe von Chatgpt holen
+
+## Fein-Planung 12.12.2025
+
+- [ ] LA_162_6955
+- [ ] LA_162_1733
+
+## Lernperiode Reflexion
+Ich habe die Aufträge erfüllt.
