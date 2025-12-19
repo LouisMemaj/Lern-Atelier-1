@@ -80,3 +80,11 @@ Ich habe die Aufträge erfüllt. Es war ein bischen schwer, aber machbar. Ab und
 
 ## Lernperiode Reflexion
 Ich habe die Aufträge erfüllt.
+
+## Fein-Planung 12.12.2025
+
+- [ ] LA_117_1707
+- [ ] LA_117_1709
+
+## Lernperiode Reflexion
+Ich habe die Aufträge erfüllt.
